@@ -36,6 +36,7 @@ It is NEVER TO EARLY to apply to MULTIPLE colleges of your choice. However, it i
 1. Search the web for dates on the university/college of admissions
 2. Ask others for help or those who are planning to attend the same university/college as you
 3. Ask your parents for more information, they are there to help you
+
 For further information, just contact me below:
 
 --------------------------------------------------------------------------------
