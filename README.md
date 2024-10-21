@@ -18,6 +18,7 @@ Different colleges/universities ask for different kinds of information. But, all
 2. Mantain at LEAST a 2.5 - 3.0 GPA (This is US standard GPA for grading, be at least a B- in all other countries)
 3. Provide a good example on social media (Colleges check social media to see if you support anything bad, or have done a criminal act)
 4. Tax Returns/Salary From Parents/Guardians (This isn't usually required but it's possible that it would be asked if you apply for Financial Aid)
+5. Recommendation Letters (Ask your guidance counselor or search the college's website for a template)
 
 --------------------------------------------------------------------------------
 Financial Aid/Scholarships Information
