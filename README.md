@@ -4,6 +4,7 @@ Need help with applying to college? I got you.
 No worries, here are some tips to get you started!
 Remember, it's better to start looking into the majors/courses you would like to partake in, in regards to the job you would like to have in the future.
 Need more information than the one I provided? Visit the discord server below which provides all the necessary details of becoming a college/university student!
+
 https://discord.gg/vNjnGcfm
 
 - Apply to the college YOU WANT TO GO TO.
