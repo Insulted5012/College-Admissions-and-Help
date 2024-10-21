@@ -1,6 +1,9 @@
 # College-Admissions-and-Help
 Need help with applying to college? I got you.
-# Bedrock Enhancement Additions
+# Becoming A First-Time College Student?
+No worries, here are some tips to get you started!
+Remember, it's better to start looking into the majors/courses you would like to partake in, in regards to the job you would like to have in the future.
+
 World Exports, Interesting Addons, Custom Mods and many more to come!
 Come visit and enjoy the wonders of my custom addons and mods right here.
 
