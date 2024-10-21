@@ -4,34 +4,40 @@ Need help with applying to college? I got you.
 No worries, here are some tips to get you started!
 Remember, it's better to start looking into the majors/courses you would like to partake in, in regards to the job you would like to have in the future.
 
-World Exports, Interesting Addons, Custom Mods and many more to come!
-Come visit and enjoy the wonders of my custom addons and mods right here.
-
- - Custom built worlds crafted by your's truly.
- - Addons that I use for my worlds to create a better environment.
- - Skin packs
- - Custom UIs
- - Quality of Life Updates
- - And Much More!
+- Apply to the college YOU WANT TO GO TO.
+- Apply to colleges YOU WOULD LIKE TO GO IF YOUR DREAM COLLEGE DOESN'T ACCEPT YOU. (Safety College)
+- Take different tests needed, ACT, SAT, etc. and get a good score, at least a 1000 on the SAT and a 20 on the ACT, if not MORE.
+- Wanting to study abroad? Look for different schools in the area of your choice and follow the same procedures/steps above.
 
 --------------------------------------------------------------------------------
-How to download?
+Forms, Tests, Important Information
 -
-1. Click on the pack you want to download, or world export.
-2. Click on the file stating .mcpack or .mcworld.
-3. Look at the top right and click "raw" OR click the download raw file.
+Different colleges/universities ask for different kinds of information. But, all of them have in common of asking for your personal information such as your SSN (Social Security Number), DOB (Date of Birth), First, Middle Initial, and Last Name, your Address, Phone Number, and, if viable, your current living situation. All of which could determine housing and possibly the money/financial aid provided for you to go to school. Just make sure to get the following ready:
 
-How to import?
--
-1. Once downloaded, open your "downloads" folder while having the Minecraft Bedrock Client open.
-2. Double click on said downloaded file and it will automatically import towards your Minecraft Bedrock Client.
+1. Test Information (SAT, ACT, etc. based on your country's requirements)
+2. Mantain at LEAST a 2.5 - 3.0 GPA (This is US standard GPA for grading, be at least a B- in all other countries)
+3. Provide a good example on social media (Colleges check social media to see if you support anything bad, or have done a criminal act)
+4. Tax Returns/Salary From Parents/Guardians (This isn't usually required but it's possible that it would be asked if you apply for Financial Aid)
 
-How to export?
+--------------------------------------------------------------------------------
+Financial Aid/Scholarships Information
 -
-1. Click on the file you want to download.
-2. Click "view raw" or the "raw" button.
-3. It will ask you to save it, save it in a location you'll be able to remember.
-4. Export both folders out of the zip file onto somewhere of your desire.
+Different countries provide different financial aid possibilities and money offerings. Check your countries requirements for Financial Aid, or check the following information below:
+
+1. Apply for MULTIPLE scholarships (This will allow for more money to be provided for you to pay the tuition at your preferred University or College)
+2. Apply for Financial Aid ASAP (This will allow faster authentication on behalf of the US Department of Education to verify your information)
+3. It's NEVER to EARLY to apply for more scholarships even if you already have more than 1 given to you. (More money = less to pay for tuition)
+
+--------------------------------------------------------------------------------
+Applying To College
+-
+It is NEVER TO EARLY to apply to MULTIPLE colleges of your choice. However, it is always TOO LATE if you pass the deadline for early admissions and decisions on different colleges. Make sure to check the college of your choice for potential deadlines of applications or early decisions.
+
+1. Search the web for dates on the university/college of admissions
+2. Ask others for help or those who are planning to attend the same university/college as you
+3. Ask your parents for more information, they are there to help you
+For further information, just contact me below:
+
 --------------------------------------------------------------------------------
 Socials & Contacts
 -
